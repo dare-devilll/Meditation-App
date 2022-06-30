@@ -1,2 +1,3 @@
-# Meditation-App-master
-<img width="150" alt="image" src="https://user-images.githubusercontent.com/92071471/176701511-1a87e3af-523a-4349-bff8-4dc3d3ed7170.png">
+# Meditation-App
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/92071471/176701881-4ff0a0ae-8e0a-4fa4-b53b-b3651ab9c9e0.png">
